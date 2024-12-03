@@ -1,0 +1,50 @@
+1) Data Types
+-Integer
+-String
+-String Operators
+-Float
+-Double
+-Date
+-Boolean
+2)Conditional Clauses
+-IF
+-IF ELSE
+-Break
+-Continue
+-Pass
+3)Loops
+-For Loop
+-While Loop
+4)Data Structures
+-List
+-List Comphrension
+-Dictionary
+-Dictionary Comprehension
+-Set
+-numpy array
+-Tuple
+-Create Dataframes using List
+-Create Dataframes using Dictionary
+-Create a Dataframe using csv
+-Convert the Dataframe columns to List and do operations
+-Convert the Dataframe to Dictionary and do operations
+-Create a json file using Dictionaries
+-Create a multilevel Json File using Dictionary
+-Read the Json file and create a Dataframe
+5)Functions
+-Modules
+-Import
+-Import from local file
+-Create a code to replicate a library system using only functions
+-Create a code to replicate black jack game using only functions
+6)OOPS
+-Classes
+-Inheritence
+-Polymorphism
+-Local Objects
+-Global Objects
+-Create a card game using OOPS
+7) Import Pandas and Numpy Modules
+- Basic Operations on Pandas
+- Basic Operations on Numpy
+
